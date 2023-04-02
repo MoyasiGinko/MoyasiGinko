@@ -12,11 +12,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, my name is Moyasi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-======================================================================================================================================
+<!-- Hello, my name is Moyasi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+====================================================================================================================================== -->
 
-Software Developer
----------------------
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Moyasi</h1>
+  
+<h3 align="center">Software Developer</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/mahmudur-rahman-a8a151257" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="moyasi" height="30" width="40" /></a>
+<a href="https://www.github.com/MoyasiGinko" target="blank" ><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="40" /></a>
+<a href="https://web.facebook.com/maxxmahmud.mahmud.9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Mahmudur Rahman" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Moyasi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@Moyasi" height="30" width="40" /></a>
+<a href="https://twitter.com/moyasi_ginko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="moyasi_ginko" height="30" width="40" /></a>
+<a href = "mailto: mrsiyam61@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href="https://wa.me/+8801705674860" target="blank" > <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' width="30" height='40' /></a>
+</p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MoyasiGinko&label=Views&color=blue&style=plastic" alt="MoyasiGinko" /></p>
+<!-- Software Developer
+--------------------- -->
 
 <!--
 I am a continuous improvement fullstack developer.<br/> 
@@ -24,10 +40,17 @@ I would like to build technology to improve people's lives.<br/>
 I have changed my career because of the covid quarantine :mask:, that was hard, but I have discovered this exciting new world for me, so I have burned the ships. 
 -->
 
-* 🌍  I am currently based in Dhaka, Bangladesh, but I am eager to work in other parts of the world. 😉
-* ✉️  You can reach me at [mrsiyam61@gmail.com](mailto:mrsiyam61@gmail.com)
-* 🧠  I am currently learning Full-Stack development
-* 🤝  I am open to collaborating on both backend and frontend roles.
+- 🔭  I am currently studying **Software Development** at <img src="https://avatars.githubusercontent.com/u/22550229?s=200&v=4" width="14" height="14"> Microverse. 😄 
+- 🌱  I am learning the best practices towards working as a remote software developer at ![](https://img.shields.io/badge/-Microverse-blueviolet)
+- 🌍  I am currently based in Dhaka, Bangladesh, but I am eager to work in other parts of the world. 😉
+- 🧠  I am a Python lover 😄 and I love solving programming problems.
+- 🤝  I am open to collaborating on both backend and frontend roles.
+- ✉️  You can reach me at [mrsiyam61@gmail.com](mailto:mrsiyam61@gmail.com)
+
+<!-- ### Socials
+
+<p align="left"> <a href="https://www.github.com/MoyasiGinko" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mahmudur-rahman-a8a151257" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://wa.me/+8801705674860" target="_blank" rel="noreferrer"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' width="32" height='32'></a></p> -->
+
 
 ### Skills
 
@@ -55,14 +78,15 @@ I have changed my career because of the covid quarantine :mask:, that was hard, 
 </p>
 
 
-### Socials
+<b>My GitHub Stats</b>
 
-<p align="left"> <a href="https://www.github.com/MoyasiGinko" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mahmudur-rahman-a8a151257/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="http://www.github.com/MoyasiGinko"><img src="https://github-readme-stats.vercel.app/api?username=MoyasiGinko&show_icons=true&count_private=true&theme=merko&title_color=e25822&icon_color=e25822&ring_color=0891b2&hide_border=true" alt="Moyasi's GitHub stats" /></a>
+<!--  &count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917-->
+<a href="http://www.github.com/MoyasiGinko"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MoyasiGinko&theme=merko&ring=e25822&fire=e25822&currStreakNum=ffffff&currStreakLabel=0891b2&hide_border=true" /></a>
+<!--  stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff-->
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MoyasiGinko&show_icons=true&theme=merko&layout=compact&hide_border=true" alt="MoyasiGinko" />
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/MoyasiGinko"><img src="https://github-readme-stats.vercel.app/api?username=MoyasiGinko&show_icons=true&hide=stars,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Moyasi's GitHub stats" /></a>
-
-<a href="http://www.github.com/MoyasiGinko"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MoyasiGinko&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=MoyasiGinko)](https://github.com/ryo-ma/github-profile-trophy)
