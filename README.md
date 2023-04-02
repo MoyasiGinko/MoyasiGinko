@@ -91,6 +91,6 @@ I have changed my career because of the covid quarantine :mask:, that was hard, 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MoyasiGinko)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="center">THANK YOU</h3>
+<h3 align="center">To be continued...</h3>
 <p align="center">======================</p>
 <p align="center"><img src='https://github.com/amon-cofie/amon-cofie/blob/main/handshake.gif' width="100px"></p>
