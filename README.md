@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <!-- Hello, my name is Moyasi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================== -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Moyasi</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Moyasi</h1>
   
 <h3 align="center">Software Developer</h3>
 
@@ -44,7 +44,7 @@ I have changed my career because of the covid quarantine :mask:, that was hard, 
 - 🌱  I am learning the best practices towards working as a remote software developer at ![](https://img.shields.io/badge/-Microverse-blueviolet)
 - 🌍  I am currently based in Dhaka, Bangladesh, but I am eager to work in other parts of the world. 😉
 - 🧠  I am a Python lover 😄 and I love solving programming problems.
-- 🤝  I am open to collaborating on both backend and frontend roles.
+- 🤝  I am looking to collaborate with people around the world on different projects.
 - ✉️  You can reach me at [mrsiyam61@gmail.com](mailto:mrsiyam61@gmail.com)
 
 <!-- ### Socials
