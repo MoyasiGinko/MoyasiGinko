@@ -46,7 +46,7 @@ I have changed my career because of the covid quarantine :mask:, that was hard, 
 - 🌍  I am currently based in Dhaka, Bangladesh, but I am eager to work in other parts of the world. 😉
 - 🧠  I am a Python lover 😄 and I love solving programming problems.
 - 🤝  I am looking to collaborate with people around the world on different projects.
-- ✉️  You can reach me at [mrsiyam61@gmail.com](mailto:mrsiyam61@gmail.com)
+- ✉️  You can reach me at [LinkedIn](https://www.linkedin.com/in/mahmudur-rahman-a8a151257/) or [mrsiyam61@gmail.com](mailto:mrsiyam61@gmail.com)
 
 <!-- ### Socials
 
