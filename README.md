@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 <!-- Hello, my name is Moyasi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================== -->
 
-<!-- <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Moyasi</h1> -->
-![](./github-header-image3.png)
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Moyasi</h1>
+<!-- ![](./github-header-image3.png) -->
   
 <h3 align="center">Software Developer</h3>
 
