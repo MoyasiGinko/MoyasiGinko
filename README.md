@@ -42,11 +42,14 @@ I would like to build technology to improve people's lives.<br/>
 I have changed my career because of the covid quarantine :mask:, that was hard, but I have discovered this exciting new world for me, so I have burned the ships. 
 -->
 
-- 🔭  I am currently studying **Software Development** at <img src="https://avatars.githubusercontent.com/u/22550229?s=200&v=4" width="14" height="14"> Microverse. 😄 
-- 🌱  I am learning the best practices towards working as a remote software developer at ![](https://img.shields.io/badge/-Microverse-blueviolet)
-- 🌍  I am currently based in Dhaka, Bangladesh, but I am eager to work in other parts of the world. 😉
-- 🧠  I am a Python lover 😄 and I love solving programming problems.
-- 🤝  I am looking to collaborate with people around the world on different projects.
+- 🔭  I am a graduate of <img src="https://avatars.githubusercontent.com/u/22550229?s=200&v=4" width="14" height="14"> Microverse, an online school for remote software developers. 😄
+- 🌱  A certified Full-Stack Developer, constantly refining my portfolio.
+- 🤝  Actively seeking job opportunities to apply my skills for a positive impact.
+- 👯  Open to collaboration on any project with people around the world.
+- 🔭  A Python lover, and I love solving programming problems.
+- 🧠  In my free time, I enjoy Movies/Anime and indulge in the best OP-MC Manga/Manhwa/Manhua.
+- ⚡  When bored, I listen to music and play my favorite games.
+- 🌍  Currently based in Dhaka, Bangladesh, but I am eager to work in other parts of the world. 😉
 - ✉️  You can reach me at [LinkedIn](https://www.linkedin.com/in/mahmudur-rahman-a8a151257/) or [mrsiyam61@gmail.com](mailto:mrsiyam61@gmail.com)
 
 <!-- ### Socials
