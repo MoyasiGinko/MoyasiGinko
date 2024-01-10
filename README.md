@@ -44,7 +44,7 @@ I have changed my career because of the covid quarantine :mask:, that was hard, 
 -->
 
 - 🔭  I am a graduate of <img src="https://avatars.githubusercontent.com/u/22550229?s=200&v=4" width="14" height="14"> Microverse, an online school for remote software developers. 😄
-- 🌱  A certified Full-Stack Developer, constantly refining my portfolio.
+- 🌱  A certified Full-Stack Developer, constantly refining my [Portfolio](https://moyasiginko.vercel.app/).
 - 🤝  Actively seeking job opportunities to apply my skills for a positive impact.
 - 👯  Open to collaboration on any project with people around the world.
 - 🔭  A Python lover, and I love solving programming problems.
