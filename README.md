@@ -33,7 +33,7 @@
 - 🎮 When not coding: Anime, Manga/Manhwa, Music, and Gaming
 - 📧 Reach me at: [mrsiyam61@gmail.com](mailto:mrsiyam61@gmail.com)
 
-</br>
+
 </br>
 <!-- TECH STACK -->
 <h2 align="center">⚡ Tech Stack</h2>
