@@ -21,7 +21,7 @@
 <h2 align="center">🧑‍💻 About Me</h2>
 
 <div align="center">
-  <img align="right" width="300" height="240" src="https://media.giphy.com/media/3o85xkIc9YK1u4WWli/giphy.gif?cid=ecf05e47xzkrk9gkzztekv8890dezqfjmhctkcd7zozfwd0b&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
+  <img align="right" width="200" height="200" src="https://media.giphy.com/media/3o85xkIc9YK1u4WWli/giphy.gif"/>
 </div>
 
 - 🎓 Graduate of <img src="https://avatars.githubusercontent.com/u/22550229?s=200&v=4" width="14" height="14"> **Microverse**, an online school for remote software developers
