@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e25822,100:e2a022&height=200&section=header&text=Hi,%20I'am%20Moyasi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Software%20Engineer%20|%20Full-Stack%20Developer&descAlignY=50&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00000080,100:70809080&height=200&section=header&text=Hi,%20I'am%20Moyasi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Software%20Engineer%20&descAlignY=50&descSize=18" width="100%" />
 </div>
 
 <!-- INTRO -->
@@ -173,6 +173,7 @@
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e25822,100:e2a022&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00000080,100:70809080&height=120&section=footer" width="100%" />
 </div>
+
 
