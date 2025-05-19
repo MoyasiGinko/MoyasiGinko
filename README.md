@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="MoyasiGinko" width="500"/>
+  <img src="https://camo.githubusercontent.com/8f59c25f98f043922ff68c18f7c91f30dce8fa6802d67bf18ffdd6eeb7f4c44c/68747470733a2f2f6272616e646f6e6368616e2e63612f696d616765732f706f7374732f6e69676874636f64696e672f6e69676874636f64696e67636f6c6f722e676966" alt="MoyasiGinko" width="500"/>
 </p>
 
 <p align="center">
