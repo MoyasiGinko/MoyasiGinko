@@ -21,7 +21,7 @@
 <h2 align="center">🧑‍💻 About Me</h2>
 
 <div align="center">
-  <img align="right" width="300" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+  <img align="right" width="300" src="https://media.giphy.com/media/I8pDqMXjdMRrNH4zje/giphy.gif?cid=ecf05e47xnpm5xmfjnm83ak431m3b8p1d8yv76tnymofr13i&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
 </div>
 
 - 🎓 Graduate of <img src="https://avatars.githubusercontent.com/u/22550229?s=200&v=4" width="14" height="14"> **Microverse**, an online school for remote software developers
@@ -163,12 +163,14 @@
   </a>
 </div>
 
+</br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/amon-cofie/amon-cofie/main/handshake.gif" width="100">
+  <h3>Let's build something amazing together!</h3>
+</div>
+
 <!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e25822,100:e2a022&height=120&section=footer" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/amon-cofie/amon-cofie/main/handshake.gif" width="100">
-  <h3>Let's build something amazing together!</h3>
-</div>
