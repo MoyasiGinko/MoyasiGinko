@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/8f59c25f98f043922ff68c18f7c91f30dce8fa6802d67bf18ffdd6eeb7f4c44c/68747470733a2f2f6272616e646f6e6368616e2e63612f696d616765732f706f7374732f6e69676874636f64696e672f6e69676874636f64696e67636f6c6f722e676966" alt="MoyasiGinko" width="500"/>
+  <img src="/git-hero.gif" alt="MoyasiGinko" width="500"/>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 <h2 align="center">🧑‍💻 About Me</h2>
 
 <div align="center">
-  <img align="right" width="300" height="220" src="https://i.gifer.com/1VB6.gif"/>
+  <img align="right" width="300" height="220" src="/git-about.gif"/>
 </div>
 
 - 🎓 Graduate of <img src="https://avatars.githubusercontent.com/u/22550229?s=200&v=4" width="14" height="14"> **Microverse**, an online school for remote software developers
