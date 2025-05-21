@@ -165,6 +165,14 @@
   </a>
 </div>
 
+<h3 align="center">💗 Support</h3>
+
+<div align="center">
+   <a href="https://www.buymeacoffee.com/moyasiginko" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" />
+  </a>
+</div>
+
 </br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/amon-cofie/amon-cofie/main/handshake.gif" width="100">
