@@ -115,14 +115,14 @@
   </picture>
 </div>
 
+
+<!-- GITHUB STATS -->
+<h2 align="center">📊 GitHub Stats</h2>
+
 <div align="center">
   <a href="https://github.com/MoyasiGinko"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoyasiGinko&theme=tokyonight"/>
 </div>
 
-
-
-<!-- GITHUB STATS -->
-<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <a href="https://github.com/MoyasiGinko">
