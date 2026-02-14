@@ -33,7 +33,6 @@
 - 🎮 When not coding: Anime, Manga/Manhwa, Music, and Gaming
 - 📧 Reach me at: [mrsiyam61@gmail.com](mailto:mrsiyam61@gmail.com)
 
-
 </br>
 <!-- TECH STACK -->
 <h2 align="center">⚡ Tech Stack</h2>
@@ -107,6 +106,20 @@
   <a href="#"><img src="https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white" alt="Solidity"/></a>
 </p>
 </details>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<div align="center">
+  <a href="https://github.com/MoyasiGinko"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoyasiGinko&theme=tokyonight"/>
+</div>
+
+
 
 <!-- GITHUB STATS -->
 <h2 align="center">📊 GitHub Stats</h2>
