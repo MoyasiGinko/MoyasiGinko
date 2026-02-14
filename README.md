@@ -119,10 +119,6 @@
 <!-- GITHUB STATS -->
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-  <a href="https://github.com/MoyasiGinko"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoyasiGinko&theme=tokyonight"/>
-</div>
-
 
 <div align="center">
   <a href="https://github.com/MoyasiGinko">
@@ -133,6 +129,10 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoyasiGinko&theme=dark&hide_border=true&background=0d1117&stroke=e25822&ring=e2a022&fire=e25822&currStreakNum=ffffff&sideNums=e2a022&currStreakLabel=e2a022&sideLabels=e25822&dates=979797" alt="Moyasi's GitHub Streak" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/MoyasiGinko"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoyasiGinko&theme=tokyonight&no-frame=true&no-bg=true"/>
 </div>
 
 <div align="center">
