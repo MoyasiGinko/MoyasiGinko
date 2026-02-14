@@ -132,11 +132,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MoyasiGinko&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Moyasi's GitHub Trophies" />
+  <a href="https://github.com/MoyasiGinko"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoyasiGinko&theme=tokyonight&no-frame=true&no-bg=true" alt="Moyasi's Summary"/>
 </div>
 
 <div align="center">
-  <a href="https://github.com/MoyasiGinko"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoyasiGinko&theme=tokyonight&hide_border=true&background=0d1117&stroke=e25822&ring=e2a022&fire=e25822&currStreakNum=ffffff&sideNums=e2a022&currStreakLabel=e2a022&sideLabels=e25822&dates=979797"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MoyasiGinko&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Moyasi's GitHub Trophies" />
 </div>
 
 <!-- CONNECT WITH ME -->
