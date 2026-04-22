@@ -24,7 +24,7 @@
   <img align="right" width="300" height="220" src="/git-about.gif"/>
 </div>
 
-- 🎓 Graduate of <img src="https://avatars.githubusercontent.com/u/22550229?s=200&v=4" width="14" height="14"> **Microverse**, an online school for remote software developers
+- 🎓 Graduate of **Microverse**, an online school for remote software developers
 - 🚀 Certified **Full-Stack Developer** with a diverse tech stack
 - 🌐 Check out my [Portfolio](https://moyasiginko.vercel.app/)
 - 💼 Open to new **opportunities** and **collaborations**
